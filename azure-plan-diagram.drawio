@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T15:47:18.834Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9nYfmE2Gw42GDTsra-eM" version="21.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-27T16:33:25.517Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="NfX8npnAdwuSlOmyVb84" version="21.7.2" type="github" pages="3">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1364" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -399,7 +399,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZFG-lFwSgxFqYbgnYNcu-9" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://i.ibb.co/HxvX300/Argo-1-e1630327305635-1.png" vertex="1" parent="1">
-          <mxGeometry x="850" y="252.5" width="120" height="100" as="geometry" />
+          <mxGeometry x="830" y="252.5" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZFG-lFwSgxFqYbgnYNcu-11" value="sync from github updated docker image manufest" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="290" width="160" height="70" as="geometry" />
