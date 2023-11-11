@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T02:12:20.268Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8QLc3_dsTWqVgx8kuJFl" version="22.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-11T02:14:36.738Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="s6TuHv9NmQ8d2eq25YOp" version="22.1.0" type="github" pages="5">
   <diagram name="Page-1" id="jGMqgqKl-Ol7-z4PGKaz">
     <mxGraphModel dx="1364" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="rkYPxT43dTx-3sNPIujs-11" value="Microservice App" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="135" y="650" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rkYPxT43dTx-3sNPIujs-13" value="Azure-Client Requirement" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="280" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
