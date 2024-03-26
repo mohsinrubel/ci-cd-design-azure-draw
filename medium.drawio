@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T18:43:06.342Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Tf0JW6bl8WNXl6kG7WKB" version="24.0.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-03-26T18:44:00.312Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="LZbwReAMRlJC6bB-nCp0" version="24.0.7" type="github" pages="11">
   <diagram name="Page-1" id="jGMqgqKl-Ol7-z4PGKaz">
     <mxGraphModel dx="1364" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -505,6 +505,9 @@
         </mxCell>
         <mxCell id="1GK97skBJgiLDYicVk-t-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="720" y="264.04" width="108.78" height="108.78" as="geometry" />
+        </mxCell>
+        <mxCell id="1GK97skBJgiLDYicVk-t-23" value="&lt;span id=&quot;docs-internal-guid-6b149529-7fff-134e-7678-8177d1d7a822&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;After setting Variable in pipeline &amp;gt;Execute&amp;gt;Generate Results&lt;/span&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
