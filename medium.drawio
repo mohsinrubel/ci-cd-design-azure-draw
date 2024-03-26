@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T18:48:58.019Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="YgON0tE8yy3jteD67gDB" version="24.0.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-03-26T20:40:41.571Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2SL0ugck9Gz6WlCrmodU" version="24.0.7" type="github" pages="11">
   <diagram name="Page-1" id="jGMqgqKl-Ol7-z4PGKaz">
     <mxGraphModel dx="1364" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -445,7 +445,7 @@
           <mxGeometry x="140" y="550" width="82" height="82" as="geometry" />
         </mxCell>
         <mxCell id="-_XhRQ36OhmUam-NqQu1-12" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b id=&quot;docs-internal-guid-6d3719f6-7fff-9535-0e8e-a567cabed1dc&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;p style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Write verification code and test case in DBx notebook then generate report then upload test result in jira ticket or confluence&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="390" width="200" height="200" as="geometry" />
+          <mxGeometry x="530" y="360" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="-_XhRQ36OhmUam-NqQu1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.66;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-_XhRQ36OhmUam-NqQu1-2" target="-_XhRQ36OhmUam-NqQu1-12">
           <mxGeometry relative="1" as="geometry" />
@@ -458,6 +458,15 @@
         </mxCell>
         <mxCell id="-_XhRQ36OhmUam-NqQu1-19" value="Upload blob storage link" style="text;strokeColor=#d79b00;align=center;fillColor=#ffe6cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="550" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wP9fM2XXDf-wff-xr9l3-1" value="Qmetry" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="600" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wP9fM2XXDf-wff-xr9l3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.29;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-_XhRQ36OhmUam-NqQu1-1" target="wP9fM2XXDf-wff-xr9l3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wP9fM2XXDf-wff-xr9l3-6" value="Manually update test script" style="text;strokeColor=#d79b00;align=center;fillColor=#ffe6cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="680" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
