@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-02T19:39:23.391Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KGd-n6M7F5vryv7FzdLL" version="24.0.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-08-02T19:51:34.627Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="pGANeo0xwYE2sIo-a8as" version="24.0.2" type="github" pages="9">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1364" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -615,8 +615,26 @@
         <mxCell id="9QveM18TdMJ7MGkk-IUc-9" value="Ai video indexer connected" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="480" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZPX7hkb3GzYXy3mm_Rkd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZPX7hkb3GzYXy3mm_Rkd-1" target="ZPX7hkb3GzYXy3mm_Rkd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPX7hkb3GzYXy3mm_Rkd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZPX7hkb3GzYXy3mm_Rkd-1" target="ZPX7hkb3GzYXy3mm_Rkd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZPX7hkb3GzYXy3mm_Rkd-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="1">
           <mxGeometry x="770" y="367.5" width="77.46" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPX7hkb3GzYXy3mm_Rkd-3" value="http://dev.communityc.ai/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="520" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPX7hkb3GzYXy3mm_Rkd-5" value="http://www..communityc.ai/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="363" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPX7hkb3GzYXy3mm_Rkd-7" value="dev" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPX7hkb3GzYXy3mm_Rkd-8" value="prod" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
